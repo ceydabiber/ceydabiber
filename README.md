@@ -21,8 +21,6 @@
 - **Automated Inspection System:** Developed a prototype for industrial automation using mechatronic systems.
 
 
-📫 How to reach me:
-- Email: bceyda34@gmail.com
 
 
 <!---
