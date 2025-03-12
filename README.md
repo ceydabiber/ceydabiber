@@ -3,9 +3,12 @@
 👩🏻‍💻 I'm a Mechatronics Engineering graduate with a passion for robotics and automation. On my GitHub, you'll find projects ranging from autonomous robots to software simulations.
 
 🔧 Technologies & Tools
-Languages: Python, C, C++, MATLAB
-Tools: Git, SolidWorks, Gazebo, Arduino
-Frameworks: ROS, Simulink
+
+**Languages**: Python, C, C++, MATLAB
+
+**Tools**: Git, SolidWorks, Gazebo, Arduino
+
+**Frameworks**: ROS, Simulink
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
